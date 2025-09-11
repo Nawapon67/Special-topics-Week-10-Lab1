@@ -1,0 +1,2 @@
+source /Users/moch/LED_Test1/LED_Test/build/bootloader/gdbinit/symbols
+source /Users/moch/LED_Test1/LED_Test/build/bootloader/gdbinit/connect
