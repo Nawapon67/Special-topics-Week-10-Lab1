@@ -1,0 +1,18 @@
+dependencies:
+  LED:
+    component_hash: 10c34c5783df28d4bad247d314b6e036bfb6bacf7e76e683ea58dfe9adafcde7
+    dependencies: []
+    source:
+      git: https://github.com/Nawapon67/Special-topics-Week-10-Lab1.git
+      path: 66030083/LED
+      type: git
+    version: fc84d5fdf237f022040b54e44d9ee797b041870a
+  idf:
+    source:
+      type: idf
+    version: 5.5.1
+direct_dependencies:
+- LED
+manifest_hash: a69d78d9bbd36d99480bbe2f8112e1aa4ec7062f261eb9e96e603b4b7f571bc8
+target: esp32
+version: 2.0.0
