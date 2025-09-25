@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "LED_Flash_with_component",
-    "project_version":    "fc84d5f",
+    "project_version":    "41bfdba-dirty",
     "project_path":       "/Users/moch/LED_Test1/LED_Flash_with_component",
     "idf_path":           "/Users/moch/esp/v5.5.1/esp-idf",
     "build_dir":          "/Users/moch/LED_Test1/LED_Flash_with_component/build",
